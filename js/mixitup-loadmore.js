@@ -1,9 +1,6 @@
-/**!
- * MixItUp loadmore v0.0.1
- *
- * @author    Wayne Durack.
- * @link      https://github.com/trolleymusic/mixitup-loadmore
- */ 
+/*!
+223190722 JAY JAYMZ  Wu Jing 
+*/
 
 (function ($, undf) {
   $.extend(true, $.MixItUp.prototype, {
