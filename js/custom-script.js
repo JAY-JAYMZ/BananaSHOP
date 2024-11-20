@@ -1,3 +1,7 @@
+
+/*!
+223190722 JAY JAYMZ  Wu Jing 
+*/
 (function($) {
 	
 	"use strict";
